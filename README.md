@@ -74,12 +74,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/LAC25/LAC25/output/snake.svg" alt="Snake animation" />
-
-###
